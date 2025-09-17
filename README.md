@@ -101,4 +101,9 @@ python -m streamlit run app.py
 ├─ requirements.txt # Python dependencies
 ├─ README.md # Project documentation
 ├─ .gitignore # Ignore venv, caches, and secrets
+
 └─ .env.example # Placeholder (not needed for local mode)
+
+
+## License
+MIT © Usama Waheed
