@@ -1,0 +1,25 @@
+# venv
+.venv/
+venv/
+env/
+pyvenv.cfg
+
+# caches
+__pycache__/
+*.py[cod]
+.streamlit/
+**/.cache/
+
+# secrets
+.env
+.streamlit/secrets.toml
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# misc
+share/
+*.log
