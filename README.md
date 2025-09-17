@@ -96,7 +96,6 @@ python -m streamlit run app.py
 
 ## 📁 Files in this Repo
 
-.
 ├─ app.py # Streamlit app (local Ollama summarizer + PDF export)
 
 ├─ requirements.txt # Python dependencies
@@ -111,4 +110,5 @@ python -m streamlit run app.py
 
 ## License
 MIT © Usama Waheed
+
 
